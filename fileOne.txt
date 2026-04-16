@@ -1,1 +1,1 @@
-This is my changes for git fetch and git pull.
+This is the chagnes for added fro remote.
