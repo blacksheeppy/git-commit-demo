@@ -1,3 +1,3 @@
 function login() {
-    console.log('bug')
+    console.log('Login funcationaily');
 }
