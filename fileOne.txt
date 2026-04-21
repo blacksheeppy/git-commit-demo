@@ -1,1 +1,1 @@
-Git revert demo 1
+Amend demo 2
