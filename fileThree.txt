@@ -1,1 +1,1 @@
-File three created to show merge comit
+Merge conflicts demo
