@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Main branch file three content
-=======
 Merge conflicts demo
->>>>>>> feat/merge-conflict
