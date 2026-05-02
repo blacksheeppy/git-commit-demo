@@ -1,1 +1,1 @@
-Remote changed file two text.
+Git restore demo 3
