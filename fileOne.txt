@@ -1,3 +1,1 @@
-Bug fix
-Bub fix 2
-Stash demo 2
+Squash commit 3
