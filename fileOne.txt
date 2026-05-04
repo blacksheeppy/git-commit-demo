@@ -1,1 +1,1 @@
-Squash commit 3
+Squash with pull request commit 1
